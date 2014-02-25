@@ -11,7 +11,7 @@ $cd ~/readme
 
 $git init
 # Sets up the necessary Git files
-# Initialized empty Git repository in /Users/you/readme/.git/
+# Initialized empty Git repository in /Users/ssaragian/readme/.git/
 
 $touch README
 # Creates a file called "README" in your readme directory
