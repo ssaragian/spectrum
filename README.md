@@ -1,8 +1,3 @@
-spectrum
-========
-
-For the Spectrum interactive site
-
 $mkdir ~/readme
 # Creates a directory for your project called "readme" in your user directory
 
